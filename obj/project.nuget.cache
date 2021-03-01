@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "csY9trtDOh5QhZBpR+mJfoEC9Wp5mW0aXASSLevICBgtTRnHvgiIOZtnGOAEccX4WioH5io+tDE94ZD2LkLFwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dude\\Desktop\\NewBrightway\\BrightwayPizza\\BrightwayPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dude\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
